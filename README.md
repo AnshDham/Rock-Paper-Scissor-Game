@@ -19,6 +19,7 @@ The development process involved importing essential libraries such as OpenCV an
 🌟Game Controls:
 
 ● Start/Next Move: Press the "S" key on your keyboard to start the game and to play each subsequent move.
+<br>
 ● Quit: Press the "Q" key on your keyboard to quit the game.
 
 Tag your friends and let the games begin! 🤩
