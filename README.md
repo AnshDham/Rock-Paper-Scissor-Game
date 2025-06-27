@@ -4,7 +4,9 @@ Developed a Rock, Paper, Scissors game using Python, OpenCV, and cv2, showcasing
  🌟Key features of the project include:
 
 ● Real-time hand gesture recognition
+<br>
 ● An interactive and user-friendly interface
+<br>
 ● Robust and efficient code
 
 The development process involved importing essential libraries such as OpenCV and cv2, and implementing real-time video capture and processing. The hand gestures were recognized using computer vision techniques, ensuring accurate and responsive gameplay. The project also included thorough testing and optimization to enhance performance and user experience.
@@ -12,8 +14,11 @@ The development process involved importing essential libraries such as OpenCV an
  🔥How to Play: 😃
 
 ● Gather your friends.
+<br>
 ● Count to three and reveal your choice: Rock (✊), Paper (✋), or Scissors (✌).
+<br>
 ● Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
+<br>
 ● Keep playing until there's a champion!
 
 🌟Game Controls:
